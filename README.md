@@ -7,4 +7,5 @@ Mernis 2022 Panel
 * Tüm sorguları kullanabilirsiniz (Ünlü Sorgusu yasaktır sınırsız ban yersiniz.)
 * iletişim için instagram : yubacard
 ![1](https://user-images.githubusercontent.com/63671455/201988403-1ff8428a-30a7-40d8-ab3d-1a3da714bfd3.png)
-![Ekran Görüntüsü (85)](https://user-images.githubusercontent.com/63671455/201988410-1ee04805-4b52-401c-8a9f-4accc5a8f3dc.png)
+
+![Ekran Görüntüsü (85)](https://user-images.githubusercontent.com/63671455/201988829-c71f7e1d-1a49-4b31-aee7-db3684f94abf.png)
