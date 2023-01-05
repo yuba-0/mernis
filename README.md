@@ -1,4 +1,4 @@
-# mernis
+# mernis GÜNCELLEME GELİCEKTİR BEKLEYİNİZ..
 Mernis 2022 Panel
 
 * İnternet Tarayıcınızın güvenlik duvarını kapatın.
