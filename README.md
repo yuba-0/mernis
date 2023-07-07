@@ -1,5 +1,5 @@
-# mernis GÜNCELLEME GELİCEKTİR BEKLEYİNİZ..
-Mernis 2022 Panel
+# mernis GÜNCELLEME GELDİ.
+Mernis 2023 Panel
 
 * İnternet Tarayıcınızın güvenlik duvarını kapatın.
 * Windows güvenlik duvarını kapatın.(Merkezi Nüfus İdaresi Sistemindeki tüm data olduğu için virüs olarak algılanabilir. )
